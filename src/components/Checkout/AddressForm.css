@@ -1,0 +1,17 @@
+.addressForm__btn{
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    width: 82%;
+    margin: auto;
+}
+
+.addressForm__btn button{
+    width: 150px;
+    height: 40px;
+    background-color:lightgray;
+    color: black;
+    cursor: pointer;
+    margin: 10px;
+    border-radius: 10px;
+}

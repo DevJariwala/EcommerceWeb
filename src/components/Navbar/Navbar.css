@@ -1,0 +1,22 @@
+.navbar{
+    height: 50px;
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    border-bottom: 2px solid lightgray;
+    position: fixed;
+    top: 0;
+    left: 0;
+    right: 0;
+    background-color: white;
+}
+
+.navbar__title{
+    display: flex;
+    align-items: center;
+    cursor: pointer;
+}
+
+.navbar__btn{
+    margin-right: 10px;
+}
